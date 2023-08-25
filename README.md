@@ -8,6 +8,6 @@
 #### pra terminar irei deixa uma frase que eu gosto: "Ter em si próprio uma confiança exagerada é um excelente treino intelectual.:thought_balloon:"
 
 
-#### Acesse meus projetos [ PROJETOS ] :black_nib: ( https://github.com/rennanda19/APP_INVENTOR )
+#### Acesse meus projetos [ PROJETOS ] :black_nib: ( https://github.com/rennanda19/APP_INVENTOR/tree/main/PROJETO )
 
-### PARA ACESSAR MEU APK: Vá em [ ASSETS ] :black_nib:(https://github.com/rennanda19/APP_INVENTOR/commit/)
+### PARA ACESSAR MEU APK: Vá em [ ASSETS ] :black_nib:(https://github.com/rennanda19/APP_INVENTOR/tree/main/assets)
