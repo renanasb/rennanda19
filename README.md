@@ -10,4 +10,4 @@
 
 #### Acesse meus projetos [ PROJETOS ] :black_nib: ( https://github.com/rennanda19/APP_INVENTOR )
 
-### PARA ACESSAR MEU APPK: Vá em [ ASSETS ] :black_nib:(https://github.com/rennanda19/APP_INVENTOR/commit/)
+### PARA ACESSAR MEU APK: Vá em [ ASSETS ] :black_nib:(https://github.com/rennanda19/APP_INVENTOR/commit/)
