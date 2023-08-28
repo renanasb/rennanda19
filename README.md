@@ -14,6 +14,7 @@
 
 ##
 
+<div>
   <a href="https://github.com/rennanda19/rennanda19" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rennanda19&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
